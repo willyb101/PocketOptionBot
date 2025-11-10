@@ -1,6 +1,6 @@
-pocketoptionapi-async==2.0.0
-websockets==10.4
-TA-Lib==0.6.8
-numpy==2.3.4
-python-telegram-bot==22.5
-pytz==2025.2
+pocketoptionapi-async
+python-telegram-bot
+numpy
+ta-lib
+pytz
+websockets==11.0.3
